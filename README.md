@@ -24,13 +24,14 @@
     </a>
 <br clear="both">
 
+
+### Some of my friends
+
 <-/a>
-  ### Some of my friends
   <a href="https://github.com/vscosousa" target="_blank">
     <img src="https://https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="Vasco profile"  />
   
-  </a>
-
+  </a
 ###
 
 </div>
