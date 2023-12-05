@@ -24,21 +24,12 @@
     </a>
 <br clear="both">
 
-<!--/a>
-  ### 💩 Some of my friends
-  <a href="https://github.com/ReyFow" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Rafael profile"  />
+<-/a>
+  ### Some of my friends
+  <a href="https://github.com/vscosousa" target="_blank">
+    <img src="https://https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="Vasco profile"  />
   
   </a>
-  <a href="https://github.com/joaopinto15" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="Joao profile"  />
-  </a>
-    <a href="https://github.com/LeinBurst" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/38076042?v=4" height="40" alt="Daniel profile"  /-->
-
-### ☑️ Contributions
-  
-![Snake animation](https://github.com/vscosousa/vscosousa/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
