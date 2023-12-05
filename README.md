@@ -29,7 +29,7 @@
 
 </a>
   <a href="https://github.com/vscosousa" target="_blank">
-    <img src="https://https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="Vasco profile"  />
+    <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="Vasco profile"  />
 </a>
 ###
 
