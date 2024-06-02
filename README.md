@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="left">Hi 💕! My name is Sofia and I'm a software engineering student at ISEP from Maia, Portugal <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MAI1.png"width="21"></h2>
+<h2 align="left">Hi 💕! My name is Sofia and I'm a software engineering student at ISEP </h2>
 
 ### Stats
 
@@ -9,7 +9,7 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&screen_effect=true&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
 </picture>
 
-### 🔧 Tools
+### Tools
 
   <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="40" alt="Intellij logo"  />
@@ -33,7 +33,7 @@
   </a>
   </p>
 
-### 📧 Connect with me
+### Connect with me
 
   <a href="mailto:sofiamarinhopaulo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  /></a>
@@ -42,7 +42,7 @@
 <br clear="both">
 
 
-### 😸 Some of my friends
+### Some of my friends
 
   <a href="https://github.com/vscosousa" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="Vasco Profile"/></a>
