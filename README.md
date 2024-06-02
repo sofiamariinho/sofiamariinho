@@ -1,13 +1,11 @@
 <div align="center">
 <h2 align="center">Hi 💕! My name is Sofia and I'm a software engineering student at ISEP </h2>
 
-### stats
-
-<picture decoding="async" loading="lazy">
+<!--picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&theme=road_trip&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&screen_effect=true&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
-</picture>
+</picture-->
 
 ### tools
 
