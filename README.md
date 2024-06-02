@@ -1,7 +1,7 @@
 <div align="center">
-<h2 align="left">Hi <img src="https://media3.giphy.com/media/Bu342ERrfYxzTjZhZB/giphy.gif?cid=790b761191a3a94c3de0a432c6347ed290f6dbe2f9356ec9&rid=giphy.gif&ct=s" width="35">! My name is Sofia and I'm a software engineering student at ISEP from Maia, Portugal <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MAI1.png"width="21"></h2>
+<h2 align="left">Hi 💕! My name is Sofia and I'm a software engineering student at ISEP from Maia, Portugal <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MAI1.png"width="21"></h2>
 
-### 📊 Stats
+### Stats
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
