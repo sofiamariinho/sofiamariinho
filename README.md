@@ -3,15 +3,15 @@
 
 ### 📊 Stats
 
-<a href="https://github.com/sofiamariinho/sofiamariinho">
-  <img   align="center" src="https://github-readme-stats.vercel.app/api?username=sofiamariinho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="sofiamariinho's Stats" />
-<a href="https://github.com/sofiamariinho/sofiamariinho">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamariinho&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&dithering=true&include_all_commits=true&hide=avatar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&screen_effect=true&dithering=true&include_all_commits=true&hide=avatar">
+</picture>
 
 ### 🔧 Tools
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="40" alt="Intellij logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="VS logo"  />
   <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" height="40" alt="Oracle logo"  />
@@ -25,9 +25,13 @@
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" height="40" alt="Prolog logo"  />
   <img src="https://static.vecteezy.com/system/resources/previews/017/396/806/original/microsoft-excel-mobile-apps-logo-free-png.png" height="40" alt="Excel logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="Notion logo"  />
-  <img src="https://angular.io/assets/images/logos/angular/angular.png" height="40" alt="Angular logo"  />
-  
+  <img src="https://angular.io/assets/images/logos/angular/angular.png" height="40" alt="Angular logo"  /-->
 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,angular,c,css,cypress,dotnet,express,git,githubactions,html,java,js,jquery,latex,linux,maven,mongodb,mysql,nodejs,notion,npm,postman,py,regex,threejs,unity,ts,vscode,windows,wordpress&perline=6" />
+  </a>
+  </p>
 
 ### 📧 Connect with me
 
