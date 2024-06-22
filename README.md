@@ -1,5 +1,6 @@
 <div align="center">
-  <h2 align="center">Hi 💕! My name is Sofia and I'm a software engineering student at ISEP</h2>
+  <h2 align="center">Hi <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" height="35" align="center"> ! My name is Sofia and I'm a software engineering student at ISEP
+  </h2>
 
   <!--picture decoding="async" loading="lazy">
     <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
@@ -7,7 +8,7 @@
     <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sofiamariinho&screen_effect=true&theme=road_trip&dithering=true&include_all_commits=true&hide=avatar">
   </picture-->
 
-  ### tools
+  ### Tools
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -15,7 +16,7 @@
     </a>
   </p>
 
-  ### skills
+  ### Skills
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -23,7 +24,11 @@
     </a>
   </p>
 
-  ### connect with me
+  ### Stats
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiamariinho&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  ### Connect with me
 
   <a href="mailto:sofiamarinhopaulo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" /></a>
@@ -31,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /></a>
   <br clear="both">
 
-  ### some of my friends
+  ### Some cool kids
 
   <a href="https://github.com/vscosousa" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="Vasco Profile"/></a>
