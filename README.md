@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hi <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" height="35" align="center"> ! My name is Sofia and I'm a software engineering student at ISEP
+  <h2 align="center">Hi <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" height="35" align="center"> ! My name is Sofia and I'm a software engineer
   </h2>
 
   <!--picture decoding="async" loading="lazy">
