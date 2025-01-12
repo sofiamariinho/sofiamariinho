@@ -24,10 +24,6 @@
     </a>
   </p>
 
-  ### Stats
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofiamariinho&theme=dark&background=000000)](https://git.io/streak-stats)
-
   ### Connect with me
 
   <a href="mailto:sofiamarinhopaulo@gmail.com" target="_blank">
